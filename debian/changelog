@@ -1,0 +1,25 @@
+blankon-locale-gen (2014.01.28+edusantara1) anambas; urgency=low
+
+  * Drop ace 
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Thu, 28 Aug 2014 21:49:05 +0700
+
+blankon-locale-gen (2014.01.28) suroboyo; urgency=low
+
+  * blankon-locale.gen drop id_ID ISO-8859-1 
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Tue, 28 Jan 2014 20:32:00 +0700
+
+blankon-locale-gen (2014.01.01) suroboyo; urgency=medium
+
+  * Added blankon-locale.gen
+  * debian/postins:postrm make divert locale.gen
+
+ -- Mahyuddin Idram Ahmad <dotovr@di.blankon.in>  Thu, 02 Jan 2014 16:19:16 +0700
+
+blankon-locale-gen (2013.12.12) suroboyo; urgency=low
+
+  * Initiat release
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Thu, 12 Dec 2013 22:12:46 +0700
+
